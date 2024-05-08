@@ -22,6 +22,6 @@ The simulation of the full adder circuit and the test bench can be performed usi
 
 ## Additional Resources
 For a visual representation of the full adder circuit and its functionality, refer to the following images:
-- **Schematic Diagram**: (/Design Schematic.png)
-- **Simulation Waveform**: (/simulation.png)
+- **Schematic Diagram**:![schematic image].(/Design Schematic.png)
+- **Simulation Waveform**: ![simulaion image].(/simulation.png).
 
